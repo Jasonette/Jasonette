@@ -15,5 +15,3 @@ This repository serves two purposes:
  - [Jasonette iOS](https://github.com/Jasonette/JASONETTE-iOS)
  - [Jasonette Android](https://github.com/Jasonette/JASONETTE-Android)
  - [Jasonette Docs](https://github.com/Jasonette/documentation)
- - [Jasonette Feature Requests](https://github.com/Jasonette/Jasonette-requests)
- - [Jasonette Bug Reports](https://github.com/Jasonette/Jasonette-issues)
